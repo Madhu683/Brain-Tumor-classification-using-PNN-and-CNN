@@ -12,11 +12,14 @@ We used Guassion filter to remove noise from image. After that we applied GLCM m
 
 We have to divide database into Train and Test respectively 70% and 30% from database. create matrix of charactristic values of each image from database and applied to train the network
 finaly tested network with test matrix.
+![Probabilistic-neural-network-PNN-structure](https://user-images.githubusercontent.com/70106840/190433765-5cfb9f22-4c7d-4765-9ce4-e41c89f60de3.png)
 
 Accuracy of model is 83%.
 
 ## Convoltional  neural network
 A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which can take in an input image, assign importance (learnable weights and biases) to various aspects/objects in the image and be able to differentiate one from the other. The pre-processing required in a ConvNet is much lower as compared to other classification algorithms. While in primitive methods filters are hand-engineered, with enough training, ConvNets have the ability to learn these filters/characteristics.
+![UG_CNN_scheme](https://user-images.githubusercontent.com/70106840/190433925-f07e22df-da7c-4015-89cf-27cb7a6df678.png)
+
 Accuracy of model is 88%
 
 
