@@ -19,5 +19,11 @@ Accuracy of model is 83%.
 A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which can take in an input image, assign importance (learnable weights and biases) to various aspects/objects in the image and be able to differentiate one from the other. The pre-processing required in a ConvNet is much lower as compared to other classification algorithms. While in primitive methods filters are hand-engineered, with enough training, ConvNets have the ability to learn these filters/characteristics.
 Accuracy of model is 88%
 
-![photo_6134095111764684956_y](https://user-images.githubusercontent.com/70106840/190430642-5ef0789c-233a-485c-ad37-c55a86c4fc0f.jpg)
-![photo_6134095111764684955_y](https://user-images.githubusercontent.com/70106840/190430650-653247a8-5579-4a09-ac2f-4954dc48f638.jpg)
+
+## Results
+<p float="middle">
+  <img src="https://user-images.githubusercontent.com/70106840/190430642-5ef0789c-233a-485c-ad37-c55a86c4fc0f.jpg" width="400" />
+  <img src="https://user-images.githubusercontent.com/70106840/190430650-653247a8-5579-4a09-ac2f-4954dc48f638.jpg" width="400" /> 
+  
+</p>
+
